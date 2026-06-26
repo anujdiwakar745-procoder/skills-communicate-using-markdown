@@ -1,4 +1,4 @@
-# Daily learnings
+## Daily learnings
 ## morning planning ,
 ## reviews
 
